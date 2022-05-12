@@ -1,1 +1,1 @@
-# .github
+<p align="center"><a href="https://ciao-lang.org"><img src="https://raw.githubusercontent.com/ciao-lang/ciao/master/core/doc/common/ciao-logo.svg" height="128" alt="The Ciao Programming Language"></a></p>
